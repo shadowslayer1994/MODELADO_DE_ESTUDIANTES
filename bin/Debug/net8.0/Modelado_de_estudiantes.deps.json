@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Modelado_de_estudiantes/1.0.0": {
+        "runtime": {
+          "Modelado_de_estudiantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Modelado_de_estudiantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

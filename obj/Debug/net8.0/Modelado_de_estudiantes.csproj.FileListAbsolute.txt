@@ -1,0 +1,14 @@
+D:\PrimerParcial\Modelado_de_estudiantes\bin\Debug\net8.0\Modelado_de_estudiantes.exe
+D:\PrimerParcial\Modelado_de_estudiantes\bin\Debug\net8.0\Modelado_de_estudiantes.deps.json
+D:\PrimerParcial\Modelado_de_estudiantes\bin\Debug\net8.0\Modelado_de_estudiantes.runtimeconfig.json
+D:\PrimerParcial\Modelado_de_estudiantes\bin\Debug\net8.0\Modelado_de_estudiantes.dll
+D:\PrimerParcial\Modelado_de_estudiantes\bin\Debug\net8.0\Modelado_de_estudiantes.pdb
+D:\PrimerParcial\Modelado_de_estudiantes\obj\Debug\net8.0\Modelado_de_estudiantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\PrimerParcial\Modelado_de_estudiantes\obj\Debug\net8.0\Modelado_de_estudiantes.AssemblyInfoInputs.cache
+D:\PrimerParcial\Modelado_de_estudiantes\obj\Debug\net8.0\Modelado_de_estudiantes.AssemblyInfo.cs
+D:\PrimerParcial\Modelado_de_estudiantes\obj\Debug\net8.0\Modelado_de_estudiantes.csproj.CoreCompileInputs.cache
+D:\PrimerParcial\Modelado_de_estudiantes\obj\Debug\net8.0\Modelado_de_estudiantes.dll
+D:\PrimerParcial\Modelado_de_estudiantes\obj\Debug\net8.0\refint\Modelado_de_estudiantes.dll
+D:\PrimerParcial\Modelado_de_estudiantes\obj\Debug\net8.0\Modelado_de_estudiantes.pdb
+D:\PrimerParcial\Modelado_de_estudiantes\obj\Debug\net8.0\Modelado_de_estudiantes.genruntimeconfig.cache
+D:\PrimerParcial\Modelado_de_estudiantes\obj\Debug\net8.0\ref\Modelado_de_estudiantes.dll
